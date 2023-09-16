@@ -1,3 +1,5 @@
+#Syntax: python3 pmap.py <ip addr>
+
 #!/bin/python3
 
 #importing modules.
